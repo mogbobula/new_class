@@ -1,10 +1,12 @@
+/*the background of the page*/
 .main{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 500px;
     margin-top: 50px;
-}
+    text-align: center;
+}   
 
 .google-img{
     width: 350px;
@@ -21,14 +23,19 @@
     margin-left: auto;
     border-radius: 20px;
     height: 40px;
+    border: 1px solid gainsboro
 
 }
 
-button{
-    display: inline-block; 
-    margin-top: 30px;
-    margin-left: 125px;
-    margin-right: -120px;
-    height: 20px;
+.btn{
+    margin-top: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 10px;
+    border-radius: 6px;
+     border: 1px solid gainsboro
 
 }

@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    justify-content: end;
+}
+
+.nav-items{
+    margin-right: 10px;
+}
